@@ -3,10 +3,10 @@ package main
 import (
 	"github.com/micro/go-log"
 	"github.com/micro/go-micro"
-	"github.com/hxlb/sso/handler"
-	"github.com/hxlb/sso/subscriber"
+	"sso/handler"
+	"sso/subscriber"
 
-	example "github.com/hxlb/sso/proto/example"
+	example "sso/proto/example"
 )
 
 func main() {

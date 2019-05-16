@@ -5,7 +5,7 @@ This is the Sso service
 Generated with
 
 ```
-micro new github.com/hxlb/sso --namespace=com.hxlb --type=srv
+micro new sso --namespace=com.hxlb --type=srv
 ```
 
 ## Getting Started
